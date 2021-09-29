@@ -43,6 +43,7 @@ Awesome Mac
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
   - [云音乐播放器](#云音乐播放器)
+  - [音频录制与编辑](#音频录制与编辑)
 - [书签阅读写作](#书签阅读写作)
   - [Office](#office)
   - [RSS](#rss)
@@ -221,7 +222,7 @@ Awesome Mac
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
-* [Terminus](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+* [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
@@ -534,6 +535,10 @@ Awesome Mac
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
 
+### 音频录制与编辑
+* [GarageBand](https://www.apple.com.cn/mac/garageband/) 来自Apple的免费数字音频工作站（DAW)，提供简介低门槛的操作界面和完整的音乐录制、剪辑制作功能 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&mt=12)
+* [Logic Pro X](https://www.apple.com.cn/logic-pro/) 来自Apple的专业数字音频工作站（DAW），提供完整专业的音乐制作功能、优秀的自带插件和音源，原生支持Apple Silicon实现高效运行 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&mt=12)
+
 ## 书签阅读写作
 
 * [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1287445660?mt=12)
@@ -657,6 +662,7 @@ Awesome Mac
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。![Freeware][Freeware Icon]
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
+* [阿里云盘](https://www.aliyundrive.com/drive/) - 阿里云盘。![Freeware][Freeware Icon]
 
 ## 输入法
 
@@ -704,6 +710,7 @@ Awesome Mac
 
 ## 安全工具
 
+* [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 值得信赖的Mac安全保护工具：保护您的 Mac 免受病毒、恶意软件和广告软件的侵害。阻止潜在的 Web威胁并保护您的Mac免受漏洞影响。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 恶意软件会自行安装，以确保它在重新引导时自动重新执行。
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib 劫机扫描仪或 DHS，是一个简单的实用程序，将扫描您的计算机的应用程序是易受 dylib 劫持或被劫持。
 * [Encrypto](https://macpaw.com/encrypto) - 免费加密工具，用于加密文件和文件夹
@@ -752,7 +759,7 @@ Awesome Mac
 * [Alfred](https://www.alfredapp.com/) - 效率神器。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。![Freeware][Freeware Icon]
-* [BetterTouchTool](https://boastr.net) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
+* [BetterTouchTool](https://folivora.ai/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [ControlPlane](http://www.controlplaneapp.com/) - 自定义 Mac 情景模式。某些场景让 Mac 自动静音或是自动打开 Mail 客户端等等。[![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
@@ -793,9 +800,11 @@ Awesome Mac
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
+* [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 快速解压单个多个不同种类的压缩文件/压缩文件到各类常见压缩格式。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
+* [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
 
 ### 剪贴板工具
 
@@ -834,9 +843,11 @@ Awesome Mac
 ### 系统相关工具
 
 * [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/amphetamine/id937984704)
+* [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 适用于MacOS/iOS的免费广告拦截器 停止在Safari中看到烦人的广告。更快地打开网站。更安全地浏览网页。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [AppTrap](http://onnati.net/apptrap/) - 删除APP的同时移除文件。 [![Open-Source Software][OSS Icon]](https://github.com/kvijayan/AppTrap) ![Freeware][Freeware Icon]
 * [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
+* [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon]
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你 CPU100% 让 Mac 电脑过热电池耗尽的菜单应用程序。
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
@@ -909,6 +920,7 @@ Awesome Mac
 
 * [RustDesk](https://rustdesk.com/) - 又一个远程桌面软件。 [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
+* [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) - 微软官方的远程桌面连接工具(国区App store没有上架,[下载地址](https://go.microsoft.com/fwlink/?linkid=868963))。[![App Store][app-store Icon]](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 
@@ -918,7 +930,7 @@ Awesome Mac
 
 *使用 [Homebrew Cask](https://github.com/phinze/homebrew-cask) 将通过命令安装即为简单。开发人员使用的[Quick Look](http://en.wikipedia.org/wiki/Quick_Look)插件列表。如果手动安装，你可将下载的 `.qlgenerator` 文件移动到 `~/Library/QuickLook` 运行 `qlmanage -r`*
 
-* [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如 README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
+* [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如 README、INSTALL、Capfile、CHANGELOG...`brew install --cask install qlstephen`
 
 ## 第三方应用市场APP
 
